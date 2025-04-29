@@ -1,0 +1,10 @@
+panel
+transformers
+langchain
+langchain-huggingface
+langchain-community
+langchain-groq
+ollama
+pandas
+sklearn
+nltk
